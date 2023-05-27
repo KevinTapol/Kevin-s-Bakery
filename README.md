@@ -1,20 +1,15 @@
-# Bake Shop
+# Kevin's Bakery
 
-
-Initial Setup:
-navigate to your project folder.
-in the terminal, type 
+### Creating From Scratch
 npm create vite@latest .
-specify a project name.
-Choose React
-Choose TypeScript
-run npm install
-Once that completes, run
+React
+TypeScript
 npm i react-router-dom bootstrap react-bootstrap
-to install the required libraries
 
-If cloning:
+### If cloning:
 npm i
 npm i react-router-dom bootstrap react-bootstrap
-to run
+
+### To run the Vite React App
 npm run dev
+then go to http://localhost:5173/
