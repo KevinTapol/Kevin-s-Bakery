@@ -39,5 +39,11 @@
         "id": 8,
         "name": "Babka Bread Rolls Light",
         "imgUrl": "/imgs/Babka_Light_Rolls.png"
+    },
+    {
+        "id": 9,
+        "name": "Cinnamon Rolls",
+        "price": 8.99,
+        "imgUrl": "/imgs/Cin_Rolls.png"
     }
 ]

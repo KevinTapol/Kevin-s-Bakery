@@ -2,75 +2,83 @@
     {
         "id": 1,
         "name": "Babka Bread",
+        "price": 8.99,
         "imgUrl": "/imgs/Babka_Baked.png"
     },
 
     {
         "id": 2,
         "name": "Babka Rolls",
+        "price": 8.99,
         "imgUrl": "/imgs/Babka_Rolls.png"
     },
     {
         "id": 3,
         "name": "Challah Bread",
+        "price": 8.99,
         "imgUrl": "/imgs/Challah_Baked.png"
     },
 
     {
         "id": 4,
         "name": "Cherry Cobbler",
+        "price": 8.99,
         "imgUrl": "/imgs/Cherry_Cobbler.png"
     },
     {
         "id": 5,
-        "name": "Cinnamon Rolls Cast Iron",
+        "name": "Cinnamon Rolls",
+        "price": 8.99,
         "imgUrl": "/imgs/Cin_Rolls_Cast_Iron.png"
     },
     {
         "id": 6,
-        "name": "Cinnamon Rolls",
-        "imgUrl": "/imgs/Cin_Rolls.png"
-    },
-    {
-        "id": 7,
         "name": "Clothespin Cookies",
+        "price": 8.99,
         "imgUrl": "/imgs/Clothespin_Cookies.png"
     },
     {
-        "id": 8,
+        "id": 7,
         "name": "Donuts Glazed, Milk Chocolate and Ganache",
+        "price": 8.99,
         "imgUrl": "/imgs/Donuts_Ganache.jpg"
     },
     {
-        "id": 9,
+        "id": 8,
         "name": "Vanilla Pastry Cream Filled Donuts",
+        "price": 8.99,
         "imgUrl": "/imgs/Donuts_Heart.png"
     },
     {
-        "id": 10,
+        "id": 9,
         "name": "Focaccia",
+        "price": 8.99,
         "imgUrl": "/imgs/Focaccia_Baked.png"
     },
 
     {
-        "id": 11,
+        "id": 10,
         "name": "Hokkaido Rolls",
+        "price": 8.99,
         "imgUrl": "/imgs/Hokkaido_Rolls.jpg"
     },
     {
-        "id": 12,
+        "id": 11,
         "name": "Brioche Bread",
+        "price": 8.99,
         "imgUrl": "/imgs/Brioche.png"
     },
     {
-        "id": 13,
+        "id": 12,
         "name": "Pumpkin Cheesecake Roll",
+        "price": 8.99,
         "imgUrl": "/imgs/Pumpkin_Cheesecake_Roll.png"
     },
 
     {
-        "id": 14,
+        "id": 13,
         "name": "Sourdough Bread",
+        "price": 8.99,
         "imgUrl": "/imgs/Sourdough.png"
     }
 ]

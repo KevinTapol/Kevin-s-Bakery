@@ -10,15 +10,16 @@ export function Navbar() {
       <Container>
         <Nav className="me-auto">
           <Nav.Link to='/' as ={NavLink}>
-            Home
+          <Button>Home</Button>
           </Nav.Link>
           <Nav.Link to='/store' as ={NavLink}>
-            Store
+            <Button>Store</Button>
           </Nav.Link>
           <Nav.Link to='/about' as ={NavLink}>
-            About
+          <Button>About</Button>
           </Nav.Link>
         </Nav>
+        <h1 className="me-auto" >Kevin's Bakery</h1>
         {cartQuantity > 0 && (
         <Button 
         onClick={openCart}
